@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 
-- 🔭 I’m Automation enthusiast work on Selenium, Appium, Cypress.IO, and Playwright.
+- 🔭 I’m An Automation enthusiast works on Selenium, Appium, Cypress.IO, and Playwright.
 - 🌱 Always try to learn new things and improve.
  <!-- 👯 I’m looking to collaborate on ...
  🤔 I’m looking for help with ...
